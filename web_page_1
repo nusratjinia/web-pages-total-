@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title><link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+</head>
+<body>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><p>forgoten media</p></div>
+            <div class="col-md-6"><p>KICK AWESOME WEB DESIGN,MATCHING DESIGN</p></div>
+        </div>
+    </div>
+</section>
+<section>
+
+
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">home</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">don't hire us</a></li>
+                    <li><a href="#">portfolio</a></li>
+                    <li><a href="#">blog</a></li>
+                    <li><a href="#">about us</a></li>
+                    <li><a href="#">contact</a></li>
+                </ul>
+                <form class="navbar-form navbar-left" role="search">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                    </div>
+                </form>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+    <div class="row">
+        <div class="col-md-8"><h1>Thats what we are talking about!</h1>
+            <p>This is something about something.Here below some list about something.</p>
+            <ul><li>portfolio</li>
+                <li>Blog</li>
+                <li>Homepage</li></ul></div>
+        <div class="col-md-4"><h4>CONTACT INFO:</h4>
+            <p>Jonathan</p>
+            <ul>
+                <li>607-7422</li>
+                <li>hhh@yahoo.com</li></ul>
+            <p>Nate Craft</p>
+            <ul>
+                <li>402-5555</li>
+                <li>jjjj@gmail.com</li>
+            </ul>
+            <p>Mailing Address</p>
+            <ul>
+                <li>H-212/1,R-19/a,Dhanmondi,Dhaka</li>
+
+            </ul>
+        </div>
+    </div>
+    </div>
+</section>
+<section>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <h5>like what you see!</h5>
+                <p>we are bangladeshi.we love our country a lot.we are well enough</p>
+            </div>
+            <div class="col-md-3">
+                <h5>Recent Blog Entries</h5>
+                    <ul>
+                        <li>Lession from the music industry</li>
+                        <li>Whats your thinking</li>
+                        <li>WElcome to 2015</li>
+                    </ul>
+            </div>
+            <div class="col-md-3">
+                <h5>Recent web Design</h5>
+                 <ul>
+                     <li>yahoo</li>
+                     <li>gamil</li>
+                     <li>hotmail</li>
+                 </ul>
+            </div>
+            <div class="col-md-3">
+                <h5>Recent Print Design</h5>
+                <ul>
+                    <li>print design</li>
+                    <li>print design</li>
+                    <li>print design</li>
+                    <li>print design</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <section>
+    <div class="row">
+        <div class="col-md-6">
+            <p>*2015/01/10 fortyseven media all rights reserved</p>
+        </div>
+        <div class="col-md-6">
+            <p>** subscribe(e) powered by zadid interprise [html] [css]</p>
+        </div>
+    </div>
+    </section>
+</section>
+</body>
+</html>
