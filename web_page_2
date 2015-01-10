@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title><link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+</head>
+<body>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>ULTIMATE</h2>
+                <p><b>Designer Toolkit</b></p>
+            </div>
+            <div class="col-md-6">
+                <form class="navbar-form navbar-left" role="search">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                    </div>
+                </form>
+            </div>
+            </div>
+        </div>
+</section>
+<section>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <ul class="nav navbar-nav">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Company</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Clients</a></li>
+                <li><a href="#">Contacts</a></li>
+            </ul>
+        </div>
+    </nav>
+</section>
+<section>
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <textarea class="form-control" rows="1"></textarea>
+        </div>
+        <div class="col-md-3">
+            <textarea class="form-control" rows="1"></textarea>
+        </div>
+        <div class="col-md-3">
+            <textarea class="form-control" rows="1"></textarea>
+        </div>
+        <div class="col-md-3">
+            <textarea class="form-control" rows="1"></textarea>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+                 <a href="#" class="thumbnail">
+                        <img data-src="holder.js/100%x180" alt="#">
+                        <p>A paragraph "to write beside" or "written beside") is a group of sentences with one topic. it is also a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences.</p></a>
+        </div>
+        <div class="col-md-6">
+            <a href="#" class="thumbnail">
+                <img data-src="holder.js/100%x180" alt="#">
+                <p>A paragraph "to write beside" or "written beside") is a group of sentences with one topic. it is also a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences.</p></a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <a href="#" class="thumbnail">
+                <img data-src="holder.js/100%x180" alt="#">
+                <p>A paragraph "to write beside" or "written beside") is a group of sentences with one topic. it is also a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences.</p></a>
+        </div>
+        <div class="col-md-6"></div>
+    </div>
+    <div class="row">
+        <div class="col-md-9">
+            <p class="text-left"><b>Welcome to my Company</b></p>
+            <p class="text-justify"> Align nav links, forms, buttons, or text, using the or  utility classes. Both classes will add a CSS float in the specified direction. For example, to align nav links, put them in a separate with the respective utility class applied.
+                These classes are mixin-ed versions of .pull-left and .pull-right, but they're scoped to media queries for easier handling of navbar components across device sizes.</p>
+        </div>
+        <div class="col-md-3">
+            <h5><b>Contact Us</b></h5>
+            <p>H-212/a,R-10/a</p>
+            <p>Dhamondi,Dhaka</p>
+            <p>Bangladesh</p>
+        </div>
+    </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <p>copyright @xinia214.com 2015 </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+</body>
+</html>
