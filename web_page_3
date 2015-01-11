@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title><link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+<header>
+    <section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h1><b>POKER</b></h1>
+                <p>RakeRebates</p>
+            </div>
+            <div class="col-md-6"></div>
+            </div>
+        </div>
+    </section>
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Company</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Products</a></li>
+                        <li><a href="#">Clients</a></li>
+                        <li><a href="#">Contacts</a></li>
+                    </ul>
+                    </div>
+                </div>
+            </nav>
+</section>
+</header>
+<br>
+<br>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="row">
+                    <button type="button">User Login Area</button><br><br>
+                    <form>
+                        <label>Username</label>
+                        <input type="text" name="username"><br>
+                        <label>Password</label>
+                        <input type="text" name="password"><br>
+                        <input type="submit" name="submit" value="Log on">
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h4><b>Now you see me Now you see me</b></h4>
+                <p class="Center aligned text.">
+                    Now you see me Now you see meNow you see me Now you see meNow you see me Now you see meNow you see me Now you see meNow you see me Now you see meNow you see me Now you see meNow you see me Now you see meNow you see me Now you see meNow you see me Now you see meNow you see me Now you see me
+                </p>
+            </div>
+            <div class="col-md-4">
+                <h2><b>Somethingsomething</b></h2>
+                <p class="Center aligned text.">we live in bangladesh.we love our country</p>
+                <p><b>username:</b></p>
+                <div class="dropdown">
+                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+                        Dropdown
+                        <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Action</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Another action</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Something else here</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Separated link</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <img src="cc.jpeg" alt="No image" class="img-thumbnail">
+            </div>
+            <div class="col-md-6">
+                <h3><b>Tables for aplicants result</b></h3>
+            </div>
+            <div class="col-md-3">
+                <div class="row">
+                    <button type="button">Subscriber login area</button><br><br>
+                    <form>
+                        <label>Username</label>
+                        <input type="text" name="username"><br>
+                        <label>Password</label>
+                        <input type="text" name="password"><br>
+                        <input type="submit" name="submit" value="Log on">
+                    </form>
+                </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <img src="images.jpeg" alt="No image" class="img-thumbnail">
+            </div>
+            <div class="col-md-6">
+                <div class="row">
+                    <h5>paragraph</h5>
+                <p class="text-nowrap">No wrap text.No wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap text
+                No wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap textNo wrap text</p>
+            </div>
+            </div>
+            <div class="col-md-3">
+                <img src="images.jpeg" alt="No image" class="img-thumbnail">
+            </div>
+        </div>
+    </div>
+</section>
+<br><br>
+<br><br>
+<section>
+    <div class="container">
+        <section>
+        <div class="row">
+         <div class="col-md-12">
+             <ul class="list-unstyled">
+                 <li><a href="#">Head</a></li>
+                 <li><a href="#">Body</a></li>
+                 <li><a href="#">Title</a></li>
+                 <li><a href="#">Subject</a></li>
+                 <li><a href="#">Service</a></li>
+                 <li><a href="#">Supply</a></li>
+                 <li><a href="#">Head</a></li>
+                 <li><a href="#">Head</a></li>
+                 <li><a href="#">Head</a></li>
+             </ul>
+         </div>
+        </div>
+      </section>
+        <div class="row">
+            <div class="col-md-12">
+                <p><i>Copyright to something something...2015/1/11</i></p>
+            </div>
+        </div>
+
+</section>
+</body>
+</html>
