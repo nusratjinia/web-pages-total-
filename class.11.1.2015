@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title><link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+</head>
+<body>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12"></div>
+        </div>
+    </div>
+</section>
+<br><br>
+<br><br>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+
+                <img src="image.jpg" alt="No image" class="img-thumbnail">
+            </div>
+            <div class="col-md-2">
+                <img src="image.jpg" alt="No image" class="img-thumbnail">
+            </div>
+            <div class="col-md-2">
+                <img src="image.jpg" alt="No image" class="img-thumbnail">
+            </div>
+            <div class="col-md-2">
+                <img src="image.jpg" alt="No image" class="img-thumbnail">
+            </div>
+        </div>
+        <br><br>
+        <div class="row">
+            <img src="image.jpg" alt="No image" class="col-md-2 col-md-offset-2">
+            <img src="image.jpg" alt="No image" class="col-md-2">
+            <img src="image.jpg" alt="No image" class="col-md-2">
+            <img src="image.jpg" alt="No image" class="col-md-2">
+        </div>
+    </div>
+</section>
+
+
+</body>
+</html>
